@@ -1,5 +1,5 @@
 def calculator():
-    print("Welcome to the Simple Calculator!")
+    print("Welcome to the Calculator!")
 
     a = int(input("Enter the first number: "))
     b = int(input("Enter the second number: "))
