@@ -23,6 +23,5 @@ def calculator():
 
     print("The result is:", result)
 
-# Run the calculator
-if __name__ == "__main__":
-    calculator()
+
+calculator()
