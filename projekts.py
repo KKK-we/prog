@@ -42,7 +42,9 @@ def calculator():
 
 answer = "yes"
 
-
 while answer == "yes":
+
+    
     calculator()
     answer = input("Vai vēlies turpināt? (ievadi 'yes'): ")
+    
