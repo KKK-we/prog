@@ -46,5 +46,5 @@ while answer == "yes":
 
     
     calculator()
-    answer = input("Vai vēlies turpināt? (ievadi 'yes'): ")
+    answer = input("Vai vēlies turpināt? (ievadi 'yes' or 'no'): ")
     
